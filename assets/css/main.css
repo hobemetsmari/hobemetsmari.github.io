@@ -903,7 +903,7 @@ table.default thead {
 		/* Banner */
 
 			#banner {
-				background-attachment: scroll;
+				background-attachment: fixed;
 			}
 
 		/* CTA */
@@ -978,7 +978,7 @@ table.default thead {
 		/* Banner */
 
 			#banner {
-				background-size: 15em, 15em, auto, cover;
+				background-size:cover;
 			}
 
 		/* Main */
@@ -990,7 +990,7 @@ table.default thead {
 		/* CTA */
 
 			#cta {
-				background-size: 15em, 15em, auto, cover;
+				background-size: cover;
 				padding: 3em;
 			}
 
@@ -1082,7 +1082,7 @@ table.default thead {
 		/* Banner */
 
 			#banner {
-				margin: 0;
+				background-size: cover;
 			}
 
 		/* Wrapper */
@@ -1118,7 +1118,7 @@ table.default thead {
 		/* CTA */
 
 			#cta {
-				margin: 0;
+				background-size: cover;
 			}
 
 		/* Footer */
@@ -1433,7 +1433,7 @@ table.default thead {
 		/* Banner */
 
 			#banner {
-				background-size: 10em, 10em, auto, cover;
+				background-size:cover;
 				padding: 6em 0;
 			}
 
@@ -1473,8 +1473,7 @@ table.default thead {
 		/* CTA */
 
 			#cta {
-				background-size: 10em, 10em, auto, cover;
-				padding: 3em 1.5em;
+				background-size: cover;
 			}
 
 		/* Footer */
